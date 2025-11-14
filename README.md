@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am currentlyy working as an Automation instructor at DotPy<br>I am looking to collebrate in Automation Projects <br>I am currently learning AI for business and decision making<br>I am <br>IBM-certified Gen AI Engineer <br> and have MBA in AI for business and decision making
+I am currentlyy working as an Automation instructor at DotPy<br>I am an Automation Instructor at DotPy, dedicated to teaching and implementing efficient, scalable automation systems.<br>I hold an MBA in AI for Business and Decision Making and am an IBM-Certified Generative AI Engineer.<br>
+My focus is on bridging the gap between cutting-edge AI technology and practical business solutions.
 
+Collaboration
+I'm eager to connect with developers and teams on new Automation Projects. If you have a project requiring expertise in Python, automation frameworks, or intelligent systems, let's collaborate!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61582628219733) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-mohamedismail) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@amr.ismail.ai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC0dRz7Tln_OUfKO6vN4zPlw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amrmismail2@gmail.com) 
